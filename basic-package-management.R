@@ -2,7 +2,7 @@
 # File: basic-package-management.R
 # Date: 04-15-2012
 # Author: Eric Nantz
-# URL: https://github.com/thercast/package-admin/blob/master/basic-package-management.R
+# URL: https://github.com/thercast/package_admin/blob/master/basic-package-management.R
 # Email: theRcast@gmail.com
 # Purpose: Demonstrate how to install, browse, update, and search documentation for packages
 # www.r-podcast.org/the-r-podcast-episode-5-basic-package-management
